@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://admin:Admin1982@opticcluster-vgcd5.mongodb.net/optic?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "1278cf6f0e7ab6106eed",
+  "githubSecret": "9be4d05332b7747a76a9fdaa33883372eeab7cbd"
+}
